@@ -1,4 +1,5 @@
 # ATOMICITY
+[Link to paper](https://eprint.iacr.org/2024/1084) 
 - Keywords: Financial Atomicity, Complete Atomicity, State Machine Replication,
 Cross-chain communication, Layered State Commitments
 
